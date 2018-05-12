@@ -1,6 +1,6 @@
 #Sojasingarayar Abonia 13/05/2018
 #install required dependencies quite annoying if so try to use anacoda it
-#came with multiple data science packages and manage all your dependencies 
+#came with multiple data science packages and manage all your dependencies
 
 #simple decision tree analyse
 from sklearn import tree
@@ -29,3 +29,7 @@ prediction = clf.predict([[190, 70, 43]])
 # CHALLENGE compare their reusults and print the best one!
 
 print(prediction)
+
+#testing with different data
+prediction2 = clf.predict([[160, 60, 38]])
+print(prediction2)
