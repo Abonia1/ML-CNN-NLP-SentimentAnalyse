@@ -31,5 +31,5 @@ prediction = clf.predict([[190, 70, 43]])
 print(prediction)
 
 #testing with different data
-prediction2 = clf.predict([[160, 60, 38]])
+prediction2 = clf.predict([[159, 55, 37]])
 print(prediction2)
