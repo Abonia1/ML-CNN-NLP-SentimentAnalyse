@@ -3,11 +3,9 @@ Sentiment Analysis
 Python for Data science #sentiment analyse using tensorflow#CNN#NLP#BOW 
 
 Motivation: 
-This Sentiment analysis challenge was for Datalogue recruiting
-Goal: Write a neural network that can classify sentiments using a corpus in ./data/
-HOWTO: Details on how to deploy these models and run them see INSTALL.md.
-You can track the progress and completed tasks of this project here: Progress
+This project focuss on a bit research towards machine learning concepts.The best businesses understand sentiment of their customers – what people are saying, how they’re saying it, and what they mean. Sentiment Analysis is the domain of understanding these emotions with software, and it’s a must-understand for developers and business leaders in a modern workplace. As with many other fields, advances in Deep Learning have brought Sentiment Analysis into the foreground of cutting-edge algorithms. Today we use natural language processing, statistics, and text analysis to extract, and identify the sentiment of text into positive, negative, or neutral categories.
 I will be keeping track of my explorations and observations in this README for anyone else who wants to explore# ML-CNN-NLP-SentimentAnalyse
+
 
 Requirements:
 Python 3.4.3
@@ -19,10 +17,14 @@ Scikit-learn 0.16.1
 Theano 0.8.2/Tensorflow 1.0.0
 Keras 1.2.2
 
+NOTE:I advise better to go with Anaconda bnavigator which will provide you 1000+ datascience packages.
+
+IDE:
+Atom(best for me)
+Jupyter
 
 Dataset & Preprocessing:
-Currently the only supported dataset is the one provided by the Bag of Words Meets Bags of Popcorn challenge, instructions how to obtain and preprocess it can be found here
-The Kaggle dataset contains 25,000 labeled examples of movie reviews. Positive movie reviews are labeled with 1, while negative movie reviews are labeled with 0. The dataset is split into 20,000 training and 5,000 validation examples
+Currently the only supported dataset is the one provided by the Bag of Words Meets Bags .
 
 Training the network:
 The model can be trained across multiple GPUs to speed up the computations. In order to start the training:
