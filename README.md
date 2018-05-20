@@ -1,5 +1,3 @@
-Sentiment Analysis
-
 Python for Data science #sentiment analyse using tensorflow#CNN#NLP#BOW 
 
 Motivation: 
@@ -17,7 +15,7 @@ Scikit-learn 0.16.1
 Theano 0.8.2/Tensorflow 1.0.0
 Keras 1.2.2
 
-NOTE:I advise better to go with Anaconda bnavigator which will provide you 1000+ datascience packages.
+NOTE:I advise better to go with Anaconda navigator which will provide you 1000+ datascience packages.
 
 IDE:
 Atom(best for me)
