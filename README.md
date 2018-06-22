@@ -32,5 +32,5 @@ python train.py ( <== Use all available GPUs )
 or
 CUDA_VISIBLE_DEVICES=0,1 python train.py ( <== Use only GPU 0, 1 )
 
-Authors:
+Author:
 Abonia Sojasingarayar (aboniaa@gmail.com)
