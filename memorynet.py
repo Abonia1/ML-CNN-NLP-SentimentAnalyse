@@ -452,6 +452,6 @@ model.fit([inputs_train, queries_train], answers_train,
 
           batch_size=32,
 
-          epochs=120,
+          epochs=3,
 
           validation_data=([inputs_test, queries_test], answers_test))
