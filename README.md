@@ -1,7 +1,7 @@
 Python for Data science #sentiment analyse using tensorflow#CNN#NLP#BOW 
 
 Motivation: 
-This project focuss on a bit research towards machine learning concepts.The best businesses understand sentiment of their customers – what people are saying, how they’re saying it, and what they mean. Sentiment Analysis is the domain of understanding these emotions with software, and it’s a must-understand for developers and business leaders in a modern workplace. As with many other fields, advances in Deep Learning have brought Sentiment Analysis into the foreground of cutting-edge algorithms. Today we use natural language processing, statistics, and text analysis to extract, and identify the sentiment of text into positive, negative, or neutral categories.
+This project focus on a bit research towards machine learning concepts.The best businesses understand sentiment of their customers – what people are saying, how they’re saying it, and what they mean. Sentiment Analysis is the domain of understanding these emotions with software, and it’s a must-understand for developers and business leaders in a modern workplace. As with many other fields, advances in Deep Learning have brought Sentiment Analysis into the foreground of cutting-edge algorithms. Today we use natural language processing, statistics, and text analysis to extract, and identify the sentiment of text into positive, negative, or neutral categories.
 I will be keeping track of my explorations and observations in this README for anyone else who wants to explore# ML-CNN-NLP-SentimentAnalyse
 
 
